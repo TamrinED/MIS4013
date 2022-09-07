@@ -19,16 +19,16 @@
     <div class="container overflow-hidden text-center">
   <div class="row gy-5">
     <div class="col-6">
-      <div class="p-3 border bg-light">Custom column padding</div>
+      <div class="p-3 border bg-light">Skewness</div>
     </div>
     <div class="col-6">
-      <div class="p-3 border bg-light">Custom column padding</div>
+      <div class="p-3 border bg-light">Linearity</div>
     </div>
     <div class="col-6">
-      <div class="p-3 border bg-light">Custom column padding</div>
+      <div class="p-3 border bg-light">Normality</div>
     </div>
     <div class="col-6">
-      <div class="p-3 border bg-light">Custom column padding</div>
+      <div class="p-3 border bg-light">Outliers</div>
     </div>
   </div>
 </div>
