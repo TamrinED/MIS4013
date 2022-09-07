@@ -12,16 +12,20 @@
     
     <h2>Professor: Clarke Daugherty</h2>
     
-    <div class="container text-center">
-    <div class="row justify-content-evenly">
-    <div class="col-4">
-      One of two columns
+    <div class="container px-4 text-center">
+  <div class="row gx-5">
+    <div class="col"> <div class="p-3 border bg-light">
+      Stats
     </div>
-    <div class="col-4">
-      One of two columns
+    <div class="col order-5">
+      Excel
+    </div>
+    <div class="col order-1">
+      Data
     </div>
   </div>
-  </div>
+</div>
+
     
   </body>
 </html>
