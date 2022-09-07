@@ -16,13 +16,23 @@
     <div class="container text-center">
     <div class="row justify-content-evenly">
     <div class="col-4">
-      One of two columns
+      "I won't ever give you my opinion, except this one." - Prof. Grunsted 
     </div>
     <div class="col-4">
-      One of two columns
+      Fun, energectic, competent, etc.
     </div>
   </div>
   </div>
+  
+  <div class="form-floating">
+  <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+    <option selected>Open this select menu</option>
+    <option value="1">U.S. Legal System</option>
+    <option value="2">Hiearchy of Courts</option>
+    <option value="3">Trial Procedures</option>
+  </select>
+  <label for="floatingSelect">Works with selects</label>
+</div>
  
  </body>
 </html>
