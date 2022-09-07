@@ -32,29 +32,29 @@
   <table class="table">
   <thead>
     <tr>
-      <th scope="col">Syntax</th>
-      <th scope="col">Job</th>
-      <th scope="col">Syntax</th>
-      <th scope="col">Job</th>
+      <th scope="col">Week</th>
+      <th scope="col">Lesson</th>
+      <th scope="col">In-class</th>
+      <th scope="col">Homework</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th scope="row">1</th>
-      <td>string</td>
-      <td>content contains characters</td>
-      <td>"tiger"</td>
+      <td>Review</td>
+      <td>(P)WPF</td>
+      <td>Homework 1 - 3013 Review</td>
     </tr>
     <tr>
       <th scope="row">2</th>
-      <td>Jacob</td>
-      <td>Thornton</td>
-      <td>@fat</td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <th scope="row">3</th>
-      <td colspan="2">Larry the Bird</td>
-      <td>@twitter</td>
+      <td colspan="2"></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
